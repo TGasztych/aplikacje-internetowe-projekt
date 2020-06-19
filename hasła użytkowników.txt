@@ -1,0 +1,7 @@
+Zosta³y utworzone dwa przyk³adowe konta u¿ytkowników.
+
+
+login:		has³o:
+
+user		password
+qwer		qwer
